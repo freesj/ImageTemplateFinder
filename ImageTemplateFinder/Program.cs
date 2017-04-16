@@ -10,6 +10,7 @@ namespace ImageTemplateFinder
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
